@@ -1,1 +1,1 @@
-npm -Dserver.port=$PORT start
+npm start -Dserver.port=$PORT
